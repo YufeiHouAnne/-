@@ -1,2 +1,14 @@
 # Prediction-of-bank-customer-subscription-products
-银行产品认购预测，预测客户是否会购买银行的产品。
+
+## file tree
+
+## document description
+
+### data_processing.py
+raw data process
+
+### process_pic_train/process_pic_test
+Boxplot of attributes with continuous variables
+
+### statistics_train/statistics_test
+the results of data statistics 
