@@ -1,0 +1,119 @@
+age NAN: age    0
+dtype: int64
+job NAN: job    0
+dtype: int64
+job count: job          
+admin.           5557
+blue-collar      4874
+technician       3530
+services         2083
+management       1600
+retired          1006
+entrepreneur      863
+self-employed     836
+housemaid         657
+unemployed        647
+student           573
+unknown           274
+Name: count, dtype: int64
+marital NAN: marital    0
+dtype: int64
+marital count: marital 
+married     13178
+single       6344
+divorced     2658
+unknown       320
+Name: count, dtype: int64
+education NAN: education    0
+dtype: int64
+education count: education          
+university.degree      6524
+high.school            5031
+basic.9y               3266
+professional.course    2853
+basic.4y               2322
+basic.6y               1349
+unknown                 994
+illiterate              161
+Name: count, dtype: int64
+default NAN: default    0
+dtype: int64
+default count: default
+no         17261
+unknown     4860
+yes          379
+Name: count, dtype: int64
+housing NAN: housing    0
+dtype: int64
+housing count: housing
+yes        11568
+no         10046
+unknown      886
+Name: count, dtype: int64
+loan NAN: loan    0
+dtype: int64
+loan count: loan   
+no         17954
+yes         3657
+unknown      889
+Name: count, dtype: int64
+contact NAN: contact    0
+dtype: int64
+contact count: contact  
+cellular     14181
+telephone     8319
+Name: count, dtype: int64
+month NAN: month    0
+dtype: int64
+month count: month
+may      7235
+jul      3815
+aug      3340
+jun      2838
+nov      2242
+apr      1510
+oct       494
+mar       426
+sep       401
+dec       199
+Name: count, dtype: int64
+week NAN: day_of_week    0
+dtype: int64
+week count: day_of_week
+thu            4728
+mon            4653
+wed            4458
+tue            4414
+fri            4247
+Name: count, dtype: int64
+duration NAN: duration    0
+dtype: int64
+campaign NAN campaign    0
+dtype: int64
+pdays NAN pdays    0
+dtype: int64
+previous NAN previous    0
+dtype: int64
+poutcome NAN: poutcome    0
+dtype: int64
+poutcome count: poutcome   
+nonexistent    14618
+failure         4442
+success         3440
+Name: count, dtype: int64
+emp_var_rate NAN emp_var_rate    0
+dtype: int64
+cons_price_index NAN cons_price_index    0
+dtype: int64
+cons_conf_index NAN cons_conf_index    0
+dtype: int64
+lending_rate3m NAN lending_rate3m    0
+dtype: int64
+nr_employed NAN nr_employed    0
+dtype: int64
+subscribe NAN: subscribe    0
+dtype: int64
+subscribe count: subscribe
+no           19548
+yes           2952
+Name: count, dtype: int64
