@@ -1,5 +1,7 @@
 # Prediction-of-bank-customer-subscription-products
 
+链接：https://tianchi.aliyun.com/competition/entrance/531993
+
 ## file tree
 
 ## document description
